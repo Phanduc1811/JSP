@@ -66,6 +66,7 @@ $book = $objStatement->fetchAll(PDO::FETCH_OBJ);
                                 <div class="owl-carousel2">
                                     <div class="item">
                                         <div class="col">
+                                            <h3>Hello ma nguon mo</h3>
                                             <h3><a href="#">Hello ma nguon mo</a></h3>
                                         </div>
                                     </div>

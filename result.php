@@ -72,6 +72,7 @@ $datakw = $objStatement->fetchAll(PDO::FETCH_OBJ);
 									<div class="item">
 										<div class="col">
 											<h3>Hello ma nguon mo</h3>
+											<h3>Hello lai ne</h3>
 											<h3><a href="#">25% off (Almost) Everything! Use Code: Summer Sale</a></h3>
 										</div>
 									</div>
