@@ -1,0 +1,10 @@
+AddDefaultCharset UTF-8
+RewriteEngine on
+
+# Rewrite mode tin tuc #
+RewriteRule ^index.html index.php
+RewriteRule ^dashboard.html dashboard.php
+RewriteRule ^profile.html profile.php
+RewriteRule ^sign-up.html sign-up.php
+RewriteRule ^tables.html tables.php
+RewriteRule ^sign-in.html sign-in.php

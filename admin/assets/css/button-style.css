@@ -1,0 +1,30 @@
+.manage .but-add {
+    padding: 1rem 2rem;
+    border: 1;
+    border-radius: 1rem;
+    background-color: white;
+    background-color: var(--primary);
+    text-transform: uppercase;
+    transition: padding 0.25s linear;
+    text-align: center;
+    position: relative;
+    color: cyan;
+}
+
+.manage .but-add:hover {
+    padding-right: 5rem;
+}
+
+.manage .but-add i {
+    transition: 0.25s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    right: 1rem;
+    transform: translateY(-50%);
+}
+
+.manage .but-add:hover i {
+    transform: translateY(-50%);
+    opacity: 1;
+}

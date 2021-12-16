@@ -1,0 +1,12 @@
+AddDefaultCharset UTF-8
+RewriteEngine on
+
+# Rewrite mode tin tuc #
+RewriteRule ^index.html index.php
+RewriteRule ^product-detail.html product-detail.php
+RewriteRule ^author-detail.html author-detail.php
+RewriteRule ^type-detail.html type-detail.php
+RewriteRule ^result.html result.php
+RewriteRule ^cart.html cart.php
+RewriteRule ^checkout.html checkout.php
+RewriteRule ^order-complete.html order-complete.php
