@@ -68,6 +68,7 @@ $book = $objStatement->fetchAll(PDO::FETCH_OBJ);
                                         <div class="col">
                                             <h3>Hello ma nguon mo</h3>
                                             <h3><a href="#">Hello ma nguon mo</a></h3>
+                                            <h3>Hello boiz</h3>
                                         </div>
                                     </div>
                                     <div class="item">
