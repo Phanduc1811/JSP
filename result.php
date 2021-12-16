@@ -81,11 +81,8 @@ $datakw = $objStatement->fetchAll(PDO::FETCH_OBJ);
 											<h3>Hello ma nguon mo</h3>
 											<h3>hello boiz</h3>
 											<h3>hiiiiiiiii</h3>
-<<<<<<< HEAD
 											<h3>hahahahah</h3>
-=======
 											<h3>kkkkkkkkkkkkk</h3>
->>>>>>> efaa815eb9e2a22d848075e67c36ead20c1bb41e
 											<h3><a href="#">Our biggest sale yet 50% off all summer shoes</a></h3>
 										</div>
 									</div>
